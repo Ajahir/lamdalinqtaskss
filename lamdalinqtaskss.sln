@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lamdalinqtaskss", "lamdalinqtaskss\lamdalinqtaskss.csproj", "{83E9A39D-DB1A-4A1A-BB67-E8A554631BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E9A39D-DB1A-4A1A-BB67-E8A554631BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E9A39D-DB1A-4A1A-BB67-E8A554631BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E9A39D-DB1A-4A1A-BB67-E8A554631BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E9A39D-DB1A-4A1A-BB67-E8A554631BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77070566-A627-4719-A3EF-D8DDA49EA9F2}
+	EndGlobalSection
+EndGlobal
